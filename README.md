@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/4ba7463c-ceb2-4fa6-b838-1361cc35e384
 
 https://github.com/user-attachments/assets/16fb0582-1ffc-40af-886a-ff2e88c64309
 
-Full video links: [sample Y489](https://youtu.be/usRcFx3Wtaw), [all 3 samples](https://youtu.be/hvtbIlMZMdU).
+Full video links: [sample Y489](https://youtu.be/godL2-4rQKU), [all 3 samples](https://youtu.be/ue9DysFshfQ).
 
 
 ## :mag_right: The story
