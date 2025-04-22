@@ -104,7 +104,7 @@ This study is done in close collaboration with X-ray physicists at various synch
 
 
 ## :phone: Contacts
-Get in touch with us for further questions: [Yuxin Zhang](mailto:yuxin.zhang@crick.ac.uk), [Carles Bosch](mailto:carles.bosch@crick.ac.uk), [Alexandra Pacureanu](joitapac@esrf.fr), [Andreas T Schaefer](andreas.schaefer@crick.ac.uk)
+Get in touch with us for further questions: [Yuxin Zhang](mailto:yuxin.zhang@crick.ac.uk), [Carles Bosch](mailto:carles.bosch@crick.ac.uk), [Alexandra Pacureanu](mailto:joitapac@esrf.fr), [Andreas T Schaefer](mailto:andreas.schaefer@crick.ac.uk)
 
 
 
