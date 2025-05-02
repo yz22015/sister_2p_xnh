@@ -1,5 +1,7 @@
 # sister_2p_xnh
-:wave: Welcome to the sister_2p_xnh repo, where we release datasets and analysis scripts used for plots in this publication.
+:wave: Welcome to the sister_2p_xnh repo, where we release datasets and analysis scripts used for plots in: 
+
+**Structure-Function Mapping of Olfactory Bulb Circuits with Synchrotron X-ray Nanotomography** ([preprint link](https://doi.org/10.1101/2025.04.24.650439 ))
 
 https://github.com/user-attachments/assets/4ba7463c-ceb2-4fa6-b838-1361cc35e384
 
